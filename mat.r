@@ -1,0 +1,7 @@
+a<-c(1,2,3)
+b<-c(4,5,6)
+c<-c(7,8,9)
+m1<-cbind(a,b,c)
+m2<-rbind(a,b,c)
+print(m1)
+print(m2)
